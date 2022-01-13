@@ -1,0 +1,18 @@
+.top{
+  display: flex;
+  justify-content: space-between;
+
+}
+.calculationDescription{
+  display: flex;
+  padding-left: 10px;
+  font-size: 20px;
+}
+.dateDiv{
+  padding-left: 20px;
+}
+.deleteCalculation{
+  display: flex;
+  padding-right: 10px;
+  justify-content: right;
+}

@@ -1,0 +1,40 @@
+.saveCalculationButton{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: flex;
+
+}
+
+.calculationTextfield{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+.tables{
+    display: flex;
+    flex-direction: row;
+    justify-content:ce;
+}
+.roastingTable{
+    padding-left: 10px;
+}
+.productsTable{
+    width: 50%;
+    padding-left: 10px;
+}
+.orderIDTable{
+    padding-left: 10px;
+}
+
+
+
+.productListItem{
+
+}
+.test{
+    padding-left: 10px;
+}
+
+
+
